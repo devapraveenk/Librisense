@@ -1,2 +1,3 @@
-# Library-Chatbot_Hackathon
-A Library Chatbot Using LLM
+# LIBRISENSE - A LLM Powered Library-Chatbot
+
+This chatbot-powered system revolutionizes library management and research by leveraging the capabilities of Large Language Models (LLMs). It guides users through library resources, providing seamless navigation and efficient access to books, journals, and study materials using RAG technologies. Designed for research and academic purposes, the chatbot offers intelligent suggestions, answers complex queries, and enhances the study experience with advanced AI-driven insights. This solution bridges the gap between traditional libraries and modern AI, making knowledge discovery intuitive and accessible for all.
